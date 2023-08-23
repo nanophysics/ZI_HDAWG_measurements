@@ -1,0 +1,11 @@
+instrument_list:
+  HDAWG:
+  - address: DEV8721
+    uid: device_hdawg
+    interface: usb
+connections:
+  device_hdawg:
+    - rf_signal: q0/fg4_line
+      ports: [SIGOUTS/0]
+    - rf_signal: q0/fg6_line
+      ports: [SIGOUTS/1]

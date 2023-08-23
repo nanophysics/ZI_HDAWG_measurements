@@ -2,6 +2,7 @@
 import ctypes
 from picosdk.ps5000a import ps5000a as ps
 from picosdk.functions import adc2mV, assert_pico_ok, mV2adc
+import numpy as np
 
 def initialize_picoscope():
     # Create chandle and status ready for use
@@ -53,7 +54,7 @@ def setup_channels(chandle,status):
 
     return status,chARange, chBRange
 
-def setup_trigger(chandle, chARange, chBange, maxADC, TriggerLevel,status):
+def setup_trigger(chandle, chARange, chBange, TriggerLevel,status):
     handle = chandle
     maxADC = ctypes.c_int16()
     # pointer to value = ctypes.byref(maxADC)
@@ -247,7 +248,7 @@ def check_ready(chandle, status):
 
 def create_time_data(maxSamples, timeIntervalns):
     cmaxSamples = ctypes.c_int32(maxSamples)
-    time_array = np.linspace(0, (cmaxSamples.value - 1) * timeIntervalns, cmaxSamples.value)
+    time_array = np.linspace(0, (cmaxSamples.value - 1) * timeIntervalns.value, cmaxSamples.value)
     return time_array
 
 def stop_picoscope(chandle,status):
