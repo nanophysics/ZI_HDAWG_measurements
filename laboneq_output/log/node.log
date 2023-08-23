@@ -273,3 +273,66 @@
 2023.08.23 11:46:12.285 set /dev8721/awgs/0/commandtable/data {"$schema": "https://docs.zhinst.com/hdawg/commandtable/v1_0/schema", "header": {"version": "1.0.0"}, "table": [{"index": 0, "phase0": {"value": 90.0}, "phase1": {"value": 0.0}}, {"index": 1, "waveform": {"index": 0}}, {"index": 2, "waveform": {"index": 1}}]}
 2023.08.23 11:46:12.324 set /dev8721/awgs/0/enable 1
 2023.08.23 11:46:13.963 get /dev8721/raw/error/json/errors -
+2023.08.23 11:51:54.131 get /zi/about/version -
+2023.08.23 11:51:54.176 get /dev8721/features/devtype -
+2023.08.23 11:51:54.177 get /dev8721/features/options -
+2023.08.23 11:52:07.179 get /zi/about/version -
+2023.08.23 11:52:07.215 get /dev8721/features/devtype -
+2023.08.23 11:52:07.215 get /dev8721/features/options -
+2023.08.23 11:52:23.425 set /dev8721/raw/error/clear 1
+2023.08.23 11:52:23.437 set /dev8721/sigouts/0/on 1
+2023.08.23 11:52:23.437 set /dev8721/sigouts/0/offset 0.0
+2023.08.23 11:52:23.437 set /dev8721/awgs/0/single 1
+2023.08.23 11:52:23.437 set /dev8721/awgs/0/outputs/0/modulation/mode 0
+2023.08.23 11:52:23.437 set /dev8721/awgs/0/outputs/0/gains/0 1.0
+2023.08.23 11:52:23.437 set /dev8721/awgs/0/outputs/0/gains/1 0.0
+2023.08.23 11:52:23.437 set /dev8721/sigouts/0/precompensation/enable 0
+2023.08.23 11:52:23.437 set /dev8721/sigouts/1/on 1
+2023.08.23 11:52:23.437 set /dev8721/sigouts/1/offset 0.0
+2023.08.23 11:52:23.437 set /dev8721/awgs/0/outputs/1/modulation/mode 0
+2023.08.23 11:52:23.437 set /dev8721/awgs/0/outputs/1/gains/1 1.0
+2023.08.23 11:52:23.437 set /dev8721/awgs/0/outputs/1/gains/0 0.0
+2023.08.23 11:52:23.437 set /dev8721/sigouts/1/precompensation/enable 0
+2023.08.23 11:52:23.463 set /dev8721/system/awg/oscillatorcontrol 1
+2023.08.23 11:52:23.479 set /dev8721/awgs/0/elf/data seq_device_hdawg_0_[].seqc
+2023.08.23 11:52:23.479 set /dev8721/awgs/0/waveform/waves/0 p_0032sisq_compr__129c868
+2023.08.23 11:52:23.479 set /dev8721/awgs/0/waveform/waves/1 p_0032sisq_compr__1f7071f
+2023.08.23 11:52:23.479 set /dev8721/awgs/0/waveform/waves/2 p_0032sisq_compr__8fa38a4
+2023.08.23 11:52:23.480 set /dev8721/awgs/0/commandtable/data {"$schema": "https://docs.zhinst.com/hdawg/commandtable/v1_0/schema", "header": {"version": "1.0.0"}, "table": [{"index": 0, "phase0": {"value": 90.0}, "phase1": {"value": 0.0}}, {"index": 1, "waveform": {"index": 0}}, {"index": 2, "waveform": {"index": 1}}, {"index": 3, "waveform": {"index": 2}}]}
+2023.08.23 11:52:23.504 set /dev8721/sines/0/phaseshift 0
+2023.08.23 11:52:23.504 set /dev8721/sines/1/phaseshift 0
+2023.08.23 11:52:23.520 set /dev8721/triggers/in/0/level 0.225
+2023.08.23 11:52:23.520 set /dev8721/awgs/0/auxtriggers/0/slope 1
+2023.08.23 11:52:23.520 set /dev8721/awgs/0/auxtriggers/0/channel 0
+2023.08.23 11:52:23.520 set /dev8721/triggers/out/0/source 0
+2023.08.23 11:52:23.520 set /dev8721/triggers/out/1/source 1
+2023.08.23 11:52:23.521 set /dev8721/dios/0/mode 1
+2023.08.23 11:52:23.521 set /dev8721/dios/0/drive 15
+2023.08.23 11:52:23.521 set /dev8721/awgs/0/dio/strobe/slope 0
+2023.08.23 11:52:23.521 set /dev8721/awgs/0/dio/valid/polarity 2
+2023.08.23 11:52:23.521 set /dev8721/awgs/0/dio/valid/index 0
+2023.08.23 11:52:23.521 set /dev8721/awgs/0/dio/mask/value 1023
+2023.08.23 11:52:23.521 set /dev8721/awgs/0/dio/mask/shift 1
+2023.08.23 11:52:23.556 set /dev8721/sigouts/0/delay 0.0
+2023.08.23 11:52:23.556 set /dev8721/sigouts/1/delay 0.0
+2023.08.23 11:52:23.594 set /dev8721/awgs/0/enable 1
+2023.08.23 11:52:25.231 get /dev8721/raw/error/json/errors -
+2023.08.23 11:52:40.561 set /dev8721/awgs/0/elf/data seq_device_hdawg_0_[].seqc
+2023.08.23 11:52:40.561 set /dev8721/awgs/0/waveform/waves/0 p_0032sisq_compr__129c868
+2023.08.23 11:52:40.561 set /dev8721/awgs/0/waveform/waves/1 p_0032sisq_compr__1f7071f
+2023.08.23 11:52:40.561 set /dev8721/awgs/0/waveform/waves/2 p_0032sisq_compr__4db6a92
+2023.08.23 11:52:40.561 set /dev8721/awgs/0/commandtable/data {"$schema": "https://docs.zhinst.com/hdawg/commandtable/v1_0/schema", "header": {"version": "1.0.0"}, "table": [{"index": 0, "phase0": {"value": 90.0}, "phase1": {"value": 0.0}}, {"index": 1, "waveform": {"index": 0}}, {"index": 2, "waveform": {"index": 1}}, {"index": 3, "waveform": {"index": 2}}]}
+2023.08.23 11:52:40.603 set /dev8721/awgs/0/enable 1
+2023.08.23 11:52:42.240 get /dev8721/raw/error/json/errors -
+2023.08.23 11:52:52.583 set /dev8721/awgs/0/elf/data seq_device_hdawg_0_[].seqc
+2023.08.23 11:52:52.584 set /dev8721/awgs/0/waveform/waves/0 p_0032sisq_compr__129c868
+2023.08.23 11:52:52.584 set /dev8721/awgs/0/waveform/waves/1 p_0032sisq_compr__1f7071f
+2023.08.23 11:52:52.584 set /dev8721/awgs/0/commandtable/data {"$schema": "https://docs.zhinst.com/hdawg/commandtable/v1_0/schema", "header": {"version": "1.0.0"}, "table": [{"index": 0, "phase0": {"value": 90.0}, "phase1": {"value": 0.0}}, {"index": 1, "waveform": {"index": 0}}, {"index": 2, "waveform": {"index": 1}}]}
+2023.08.23 11:52:52.628 set /dev8721/awgs/0/enable 1
+2023.08.23 11:52:54.272 get /dev8721/raw/error/json/errors -
+2023.08.23 11:53:04.751 set /dev8721/awgs/0/elf/data seq_device_hdawg_0_[].seqc
+2023.08.23 11:53:04.752 set /dev8721/awgs/0/waveform/waves/0 p_0032sisq_compr__129c868
+2023.08.23 11:53:04.752 set /dev8721/awgs/0/waveform/waves/1 p_0032sisq_compr__1f7071f
+2023.08.23 11:53:04.752 set /dev8721/awgs/0/commandtable/data {"$schema": "https://docs.zhinst.com/hdawg/commandtable/v1_0/schema", "header": {"version": "1.0.0"}, "table": [{"index": 0, "phase0": {"value": 90.0}, "phase1": {"value": 0.0}}, {"index": 1, "waveform": {"index": 0}}, {"index": 2, "waveform": {"index": 1}}]}
+2023.08.23 11:53:04.791 set /dev8721/awgs/0/enable 1
+2023.08.23 11:53:06.433 get /dev8721/raw/error/json/errors -

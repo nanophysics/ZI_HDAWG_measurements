@@ -202,3 +202,51 @@
 2023.08.23 11:46:12.013 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
 2023.08.23 11:46:12.279 | laboneq.controller.controller                 | INFO   Starting near-time execution...
 2023.08.23 11:46:13.960 | laboneq.controller.controller                 | INFO   Finished near-time execution.
+2023.08.23 11:51:53.983 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:51:53.985 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:51:53.987 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:51:54.154 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:51:54.425 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:51:54.613 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:52:06.941 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:52:06.943 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:52:06.945 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:52:07.193 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:52:07.445 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:52:07.629 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:52:08.904 | laboneq.compiler.workflow.compiler            | INFO   Starting LabOne Q Compiler run...
+2023.08.23 11:52:08.909 | laboneq.compiler.scheduler.scheduler          | INFO   Schedule completed
+2023.08.23 11:52:22.688 | laboneq.compiler.workflow.compiler            | INFO   Total seqC lines generated: 40
+2023.08.23 11:52:22.690 | laboneq.compiler.workflow.compiler            | INFO   Total sample points generated: 192
+2023.08.23 11:52:22.691 | laboneq.compiler.workflow.compiler            | INFO   Finished LabOne Q Compiler run.
+2023.08.23 11:52:22.963 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:52:23.147 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:52:23.462 | laboneq.controller.controller                 | INFO   Starting near-time execution...
+2023.08.23 11:52:25.230 | laboneq.controller.controller                 | INFO   Finished near-time execution.
+2023.08.23 11:52:25.392 | laboneq.compiler.workflow.compiler            | INFO   Starting LabOne Q Compiler run...
+2023.08.23 11:52:25.395 | laboneq.compiler.scheduler.scheduler          | INFO   Schedule completed
+2023.08.23 11:52:39.700 | laboneq.compiler.workflow.compiler            | INFO   Total seqC lines generated: 40
+2023.08.23 11:52:39.701 | laboneq.compiler.workflow.compiler            | INFO   Total sample points generated: 192
+2023.08.23 11:52:39.703 | laboneq.compiler.workflow.compiler            | INFO   Finished LabOne Q Compiler run.
+2023.08.23 11:52:40.087 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:52:40.265 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:52:40.554 | laboneq.controller.controller                 | INFO   Starting near-time execution...
+2023.08.23 11:52:42.236 | laboneq.controller.controller                 | INFO   Finished near-time execution.
+2023.08.23 11:52:42.411 | laboneq.compiler.workflow.compiler            | INFO   Starting LabOne Q Compiler run...
+2023.08.23 11:52:42.415 | laboneq.compiler.scheduler.scheduler          | INFO   Schedule completed
+2023.08.23 11:52:51.710 | laboneq.compiler.workflow.compiler            | INFO   Total seqC lines generated: 37
+2023.08.23 11:52:51.711 | laboneq.compiler.workflow.compiler            | INFO   Total sample points generated: 128
+2023.08.23 11:52:51.713 | laboneq.compiler.workflow.compiler            | INFO   Finished LabOne Q Compiler run.
+2023.08.23 11:52:52.104 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:52:52.283 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:52:52.577 | laboneq.controller.controller                 | INFO   Starting near-time execution...
+2023.08.23 11:52:54.268 | laboneq.controller.controller                 | INFO   Finished near-time execution.
+2023.08.23 11:52:54.446 | laboneq.compiler.workflow.compiler            | INFO   Starting LabOne Q Compiler run...
+2023.08.23 11:52:54.453 | laboneq.compiler.scheduler.scheduler          | INFO   Schedule completed
+2023.08.23 11:53:03.901 | laboneq.compiler.workflow.compiler            | INFO   Total seqC lines generated: 37
+2023.08.23 11:53:03.902 | laboneq.compiler.workflow.compiler            | INFO   Total sample points generated: 128
+2023.08.23 11:53:03.903 | laboneq.compiler.workflow.compiler            | INFO   Finished LabOne Q Compiler run.
+2023.08.23 11:53:04.271 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:53:04.449 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:53:04.737 | laboneq.controller.controller                 | INFO   Starting near-time execution...
+2023.08.23 11:53:06.429 | laboneq.controller.controller                 | INFO   Finished near-time execution.
