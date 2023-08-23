@@ -1,0 +1,46 @@
+# When output in in sigout2/3
+executeTableEntry(0);
+setDIO(0);
+wait(2000000);
+playZero(512);
+setDIO(0xffffffff);
+waitDIOTrigger();
+playZero(48);
+playZero(32);
+waitWave();
+resetOscPhase();
+setDIO(0);
+
+
+
+
+# When output in in sigout0/1
+wave wp_0032sisq_compr__af262c1_i = placeholder(32);
+wave wp_0032sisq_compr__af262c1_q = placeholder(32);
+wave wp_0032sisq_compr__ddf535c_i = placeholder(32);
+wave wp_0032sisq_compr__ddf535c_q = placeholder(32);
+assignWaveIndex(1,2,wp_0032sisq_compr__af262c1_i,1,2,wp_0032sisq_compr__af262c1_q,0);
+assignWaveIndex(1,2,wp_0032sisq_compr__ddf535c_i,1,2,wp_0032sisq_compr__ddf535c_q,1);
+executeTableEntry(0);
+setDIO(0);
+wait(2000000);
+playZero(512);
+setDIO(0xffffffff);
+waitDIOTrigger();
+playZero(48);
+playZero(32);
+waitWave();
+resetOscPhase();
+repeat (500) {
+  executeTableEntry(1);  // p_0032sisq_compr__af262c1
+  playHold(465808);
+  repeat (11) {
+    playHold(1048560);
+  }
+  executeTableEntry(2);  // p_0032sisq_compr__ddf535c
+  playHold(465808);
+  repeat (11) {
+    playHold(1048560);
+  }
+}
+setDIO(0);
