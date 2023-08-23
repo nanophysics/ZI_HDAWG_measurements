@@ -1,0 +1,162 @@
+2023.08.23 11:25:53.388 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:25:53.391 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:25:53.392 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:25:53.621 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:25:53.888 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:25:54.071 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:31:11.296 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:31:11.307 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:31:11.308 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:31:11.572 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:31:11.854 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:31:12.032 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:31:27.761 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:31:27.763 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:31:27.765 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:31:27.854 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:31:28.146 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:31:28.324 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:32:16.001 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:32:16.005 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:32:16.008 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:32:16.125 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:32:16.403 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:32:16.589 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:32:32.063 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:32:32.070 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:32:32.075 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:32:32.178 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:32:32.605 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:32:32.781 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:32:40.731 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:32:40.734 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:32:40.734 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:32:40.890 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:32:41.145 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:32:41.333 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:32:51.634 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:32:51.637 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:32:51.638 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:32:51.780 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:32:52.028 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:32:52.215 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:33:10.033 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:33:10.035 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:33:10.037 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:33:10.108 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:33:10.387 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:33:10.574 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:33:22.954 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:33:22.955 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:33:22.956 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:33:23.143 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:33:23.395 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:33:23.575 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:34:07.270 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:34:07.273 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:34:07.275 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:34:07.435 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:34:07.677 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:34:07.855 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:34:15.004 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:34:15.006 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:34:15.008 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:34:15.259 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:34:15.512 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:34:15.693 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:35:47.039 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:35:47.041 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:35:47.042 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:35:47.399 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:35:47.663 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:35:47.887 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:35:58.253 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:35:58.255 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:35:58.256 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:35:58.463 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:35:58.742 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:35:58.929 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:36:48.166 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:36:48.168 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:36:48.169 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:36:48.419 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:36:48.685 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:36:48.868 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:37:24.483 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:37:24.485 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:37:24.486 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:37:24.744 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:37:25.017 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:37:25.197 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:38:17.960 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:38:17.962 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:38:17.963 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:38:18.180 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:38:18.468 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:38:18.656 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:38:43.491 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:38:43.493 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:38:43.494 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:38:43.747 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:38:44.047 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:38:44.245 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:39:50.610 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:39:50.612 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:39:50.613 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:39:50.856 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:39:51.130 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:39:51.308 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:39:52.598 | laboneq.compiler.workflow.compiler            | INFO   Starting LabOne Q Compiler run...
+2023.08.23 11:39:52.603 | laboneq.compiler.scheduler.scheduler          | INFO   Schedule completed
+2023.08.23 11:40:06.473 | laboneq.compiler.workflow.compiler            | INFO   Total seqC lines generated: 40
+2023.08.23 11:40:06.475 | laboneq.compiler.workflow.compiler            | INFO   Total sample points generated: 192
+2023.08.23 11:40:06.476 | laboneq.compiler.workflow.compiler            | INFO   Finished LabOne Q Compiler run.
+2023.08.23 11:40:06.792 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:40:06.975 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:40:07.278 | laboneq.controller.controller                 | INFO   Starting near-time execution...
+2023.08.23 11:40:09.048 | laboneq.controller.controller                 | INFO   Finished near-time execution.
+2023.08.23 11:40:34.942 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:40:34.944 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:40:34.945 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:40:35.153 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:40:35.407 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:40:35.588 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:40:36.838 | laboneq.compiler.workflow.compiler            | INFO   Starting LabOne Q Compiler run...
+2023.08.23 11:40:36.842 | laboneq.compiler.scheduler.scheduler          | INFO   Schedule completed
+2023.08.23 11:40:50.262 | laboneq.compiler.workflow.compiler            | INFO   Total seqC lines generated: 40
+2023.08.23 11:40:50.264 | laboneq.compiler.workflow.compiler            | INFO   Total sample points generated: 192
+2023.08.23 11:40:50.265 | laboneq.compiler.workflow.compiler            | INFO   Finished LabOne Q Compiler run.
+2023.08.23 11:40:50.556 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:40:50.737 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:40:51.054 | laboneq.controller.controller                 | INFO   Starting near-time execution...
+2023.08.23 11:40:52.828 | laboneq.controller.controller                 | INFO   Finished near-time execution.
+2023.08.23 11:43:09.019 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:43:09.020 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:43:09.022 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:43:09.246 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:43:09.525 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:43:09.708 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:43:10.973 | laboneq.compiler.workflow.compiler            | INFO   Starting LabOne Q Compiler run...
+2023.08.23 11:43:10.978 | laboneq.compiler.scheduler.scheduler          | INFO   Schedule completed
+2023.08.23 11:43:24.569 | laboneq.compiler.workflow.compiler            | INFO   Total seqC lines generated: 40
+2023.08.23 11:43:24.571 | laboneq.compiler.workflow.compiler            | INFO   Total sample points generated: 192
+2023.08.23 11:43:24.572 | laboneq.compiler.workflow.compiler            | INFO   Finished LabOne Q Compiler run.
+2023.08.23 11:43:24.859 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:43:25.028 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:43:25.346 | laboneq.controller.controller                 | INFO   Starting near-time execution...
+2023.08.23 11:43:27.106 | laboneq.controller.controller                 | INFO   Finished near-time execution.
+2023.08.23 11:44:04.944 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\B15measure2\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.23 11:44:04.946 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.11.0
+2023.08.23 11:44:04.948 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.23 11:44:05.216 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.23 11:44:05.504 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:44:05.685 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:44:06.948 | laboneq.compiler.workflow.compiler            | INFO   Starting LabOne Q Compiler run...
+2023.08.23 11:44:06.951 | laboneq.compiler.scheduler.scheduler          | INFO   Schedule completed
+2023.08.23 11:44:20.202 | laboneq.compiler.workflow.compiler            | INFO   Total seqC lines generated: 40
+2023.08.23 11:44:20.203 | laboneq.compiler.workflow.compiler            | INFO   Total sample points generated: 192
+2023.08.23 11:44:20.204 | laboneq.compiler.workflow.compiler            | INFO   Finished LabOne Q Compiler run.
+2023.08.23 11:44:20.496 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.23 11:44:20.680 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.23 11:44:20.978 | laboneq.controller.controller                 | INFO   Starting near-time execution...
+2023.08.23 11:44:22.762 | laboneq.controller.controller                 | INFO   Finished near-time execution.
