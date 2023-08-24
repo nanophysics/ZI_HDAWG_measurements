@@ -5,8 +5,8 @@ import threading
 import flask.cli
 import numpy as np
 from flask import Flask, request
-from PyDAQmx.DAQmxFunctions import *
-from PyDAQmx.DAQmxConstants import *
+# from PyDAQmx.DAQmxFunctions import *
+# from PyDAQmx.DAQmxConstants import *
 from laboneq.core.types.compiled_experiment import CompiledExperiment
 from laboneq.pulse_sheet_viewer.pulse_sheet_viewer import PulseSheetViewer
 from laboneq.simulator.output_simulator import OutputSimulator

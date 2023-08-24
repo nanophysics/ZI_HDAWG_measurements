@@ -69,7 +69,7 @@ def setup_trigger(chandle, chARange, chBange, TriggerLevel,status):
                                                                 10,
                                                                 0,
                                                                 10,
-                                                                ps.PS5000A_CHANNEL["PS5000A_CHANNEL_A"]) 
+                                                                ps.PS5000A_CHANNEL["PS5000A_CHANNEL_A"])  # The trigger channel is hardcoded. Will be improved in the future.
                                                                 
     status["setTriggerChannelPropertiesV2"] = ps.ps5000aSetTriggerChannelPropertiesV2(chandle, ctypes.byref(triggerProperties), 1, 0)
 
