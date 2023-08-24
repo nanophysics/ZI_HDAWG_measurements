@@ -250,3 +250,18 @@
 2023.08.23 11:53:04.449 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
 2023.08.23 11:53:04.737 | laboneq.controller.controller                 | INFO   Starting near-time execution...
 2023.08.23 11:53:06.429 | laboneq.controller.controller                 | INFO   Finished near-time execution.
+2023.08.24 10:14:08.149 | laboneq.controller.laboneq_logging            | INFO   Logging initialized from [Default inline config in laboneq.controller.laboneq_logging] logdir is c:\Users\Wister\OneDrive\Desktop\ZI_HDAWG_measurements\laboneq_output\log
+2023.08.24 10:14:08.151 | laboneq.controller.controller                 | INFO   VERSION: laboneq 2.8.0
+2023.08.24 10:14:08.152 | laboneq.controller.devices.device_collection  | INFO   Connecting to data server at 127.0.0.1:8004
+2023.08.24 10:14:08.153 | laboneq.controller.communication              | INFO   Connected to Zurich Instruments LabOne Data Server version 23.02 at 127.0.0.1:8004
+2023.08.24 10:14:08.156 | laboneq.controller.devices.device_collection  | INFO   Configuring the device setup
+2023.08.24 10:14:08.158 | laboneq.controller.devices.device_collection  | INFO   The device setup is configured
+2023.08.24 10:14:08.160 | laboneq.compiler.workflow.compiler            | INFO   Starting LabOne Q Compiler run...
+2023.08.24 10:14:08.168 | laboneq.compiler.scheduler.scheduler          | INFO   Schedule completed
+2023.08.24 10:14:15.761 | laboneq.compiler.workflow.compiler            | INFO   Total seqC lines generated: 122
+2023.08.24 10:14:15.763 | laboneq.compiler.workflow.compiler            | INFO   Total sample points generated: 379264
+2023.08.24 10:14:15.764 | laboneq.compiler.workflow.compiler            | INFO   Finished LabOne Q Compiler run.
+2023.08.24 10:14:15.771 | laboneq.controller.controller                 | INFO   Starting near-time execution...
+2023.08.24 10:14:15.851 | laboneq.controller.controller                 | INFO   Finished near-time execution.
+2023.08.24 10:14:18.481 | laboneq.pulse_sheet_viewer.pulse_sheet_viewer | INFO   Writing html file to c:\Users\Wister\OneDrive\Desktop\ZI_HDAWG_measurements\laboneq_output\ST pulse test_2023-08-24-10-14-18.html
+2023.08.24 10:28:49.084 | laboneq.pulse_sheet_viewer.pulse_sheet_viewer | INFO   Writing html file to c:\Users\Wister\OneDrive\Desktop\ZI_HDAWG_measurements\laboneq_output\ST pulse test_2023-08-24-10-28-49.html
